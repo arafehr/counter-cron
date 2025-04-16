@@ -1,6 +1,2 @@
-Update project documentation	
-Refactor content structure
-
-
-Adding resource references section
+This Python project analyzes real-time process data
 
